@@ -1,6 +1,6 @@
 # Hi 👋, I'm Eshu Sharma
 
-### 💻 Computer Science (Data Science) Undergraduate | Full-Stack Developer | AI & Data Science Enthusiast
+### 💻 Computer Science (Data Science) Graduate | Full-Stack Developer | AI & Data Science Enthusiast
 
 🚀 Passionate about building AI-powered applications, full-stack web solutions, and data-driven projects.  
 🌱 Currently learning **Data Structures & Algorithms, Machine Learning, System Design, and Cloud Technologies.**  
