@@ -1,3 +1,22 @@
+# Hi 👋, I'm Eshu Sharma
+
+### 💻 Computer Science (Data Science) Undergraduate | Full-Stack Developer | AI & Data Science Enthusiast
+
+🚀 Passionate about building AI-powered applications, full-stack web solutions, and data-driven projects.  
+🌱 Currently learning **Data Structures & Algorithms, Machine Learning, System Design, and Cloud Technologies.**  
+💡 Interested in **Software Development, AI/ML, Data Analytics, and Open Source.**  
+🎯 Looking for **Software Development, Full-Stack, AI/ML, and Data Science Internship opportunities.**  
+✨ I enjoy solving real-world problems through technology and continuously improving my technical skills.
+
+---
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/eshupandit07)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eshu-sharma-b52254239)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:eshusharma747@gmail.com)
+
+
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/eshupandit07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Eshu Sharma) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Eshu Sharma) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:eshusharma747@gmail.com) 
 
